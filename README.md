@@ -83,12 +83,7 @@
 
 
 
- <div> 
-  <p align="center">
-    <a href="#"><img title="Snake animation" src="./img/snake.svg">
-    </a>
-  </p>
-</div>
+
 
 <p align="center"> 
 
@@ -97,7 +92,12 @@
 <img src="./src/credly2.png" alt="ibm" width="100%">
 </p>
 
-
+ <div> 
+  <p align="center">
+    <a href="#"><img title="Snake animation" src="./img/snake.svg">
+    </a>
+  </p>
+</div>
 
 #### Thanks for visiting :heart:
 
